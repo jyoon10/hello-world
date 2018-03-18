@@ -1,2 +1,2 @@
-# june yoon
+# juneyoon
 my github repository
